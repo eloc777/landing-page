@@ -1,5 +1,6 @@
 body {
-
+    margin: 20px;
+    font-style: "roboto";
 }
 
 .section-one {
@@ -174,4 +175,13 @@ ul {
     border: 2px solid #F9FAF8;
     color: #F9FAF8;
     border-radius: 5px;
+}
+
+.footer {
+    background-color: #1f2937; 
+    color: #F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
 }
